@@ -34,3 +34,4 @@ Open http://localhost:5173.
 - `keywords` are naive; replace with a better extractor for production use.
 - TailwindCSS is wired for the frontend; see `frontend/tailwind.config.js`.
 
+// minor update
