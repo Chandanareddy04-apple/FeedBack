@@ -35,3 +35,4 @@ Open http://localhost:5173.
 - TailwindCSS is wired for the frontend; see `frontend/tailwind.config.js`.
 
 // minor update
+// formatting change
